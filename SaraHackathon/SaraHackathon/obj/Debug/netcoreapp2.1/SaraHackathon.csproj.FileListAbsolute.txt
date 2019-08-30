@@ -1,0 +1,15 @@
+C:\Users\H104581\source\repos\SaraHackathon\SaraHackathon\SaraHackathon\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\H104581\source\repos\SaraHackathon\SaraHackathon\SaraHackathon\bin\Debug\netcoreapp2.1\SaraHackathon.deps.json
+C:\Users\H104581\source\repos\SaraHackathon\SaraHackathon\SaraHackathon\bin\Debug\netcoreapp2.1\SaraHackathon.runtimeconfig.json
+C:\Users\H104581\source\repos\SaraHackathon\SaraHackathon\SaraHackathon\bin\Debug\netcoreapp2.1\SaraHackathon.runtimeconfig.dev.json
+C:\Users\H104581\source\repos\SaraHackathon\SaraHackathon\SaraHackathon\bin\Debug\netcoreapp2.1\SaraHackathon.dll
+C:\Users\H104581\source\repos\SaraHackathon\SaraHackathon\SaraHackathon\bin\Debug\netcoreapp2.1\SaraHackathon.pdb
+C:\Users\H104581\source\repos\SaraHackathon\SaraHackathon\SaraHackathon\obj\Debug\netcoreapp2.1\SaraHackathon.csprojAssemblyReference.cache
+C:\Users\H104581\source\repos\SaraHackathon\SaraHackathon\SaraHackathon\obj\Debug\netcoreapp2.1\SaraHackathon.csproj.CoreCompileInputs.cache
+C:\Users\H104581\source\repos\SaraHackathon\SaraHackathon\SaraHackathon\obj\Debug\netcoreapp2.1\SaraHackathon.RazorAssemblyInfo.cache
+C:\Users\H104581\source\repos\SaraHackathon\SaraHackathon\SaraHackathon\obj\Debug\netcoreapp2.1\SaraHackathon.RazorAssemblyInfo.cs
+C:\Users\H104581\source\repos\SaraHackathon\SaraHackathon\SaraHackathon\obj\Debug\netcoreapp2.1\SaraHackathon.AssemblyInfoInputs.cache
+C:\Users\H104581\source\repos\SaraHackathon\SaraHackathon\SaraHackathon\obj\Debug\netcoreapp2.1\SaraHackathon.AssemblyInfo.cs
+C:\Users\H104581\source\repos\SaraHackathon\SaraHackathon\SaraHackathon\obj\Debug\netcoreapp2.1\SaraHackathon.RazorTargetAssemblyInfo.cache
+C:\Users\H104581\source\repos\SaraHackathon\SaraHackathon\SaraHackathon\obj\Debug\netcoreapp2.1\SaraHackathon.dll
+C:\Users\H104581\source\repos\SaraHackathon\SaraHackathon\SaraHackathon\obj\Debug\netcoreapp2.1\SaraHackathon.pdb

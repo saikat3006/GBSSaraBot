@@ -1,0 +1,162 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\H104581\\source\\repos\\SaraHackathon\\SaraHackathon\\SaraHackathon.Tests\\SaraHackathon.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\H104581\\source\\repos\\SaraHackathon\\SaraHackathon\\SaraHackathon.Tests\\SaraHackathon.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\H104581\\source\\repos\\SaraHackathon\\SaraHackathon\\SaraHackathon.Tests\\SaraHackathon.Tests.csproj",
+        "projectName": "SaraHackathon.Tests",
+        "projectPath": "C:\\Users\\H104581\\source\\repos\\SaraHackathon\\SaraHackathon\\SaraHackathon.Tests\\SaraHackathon.Tests.csproj",
+        "packagesPath": "C:\\Users\\H104581\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\H104581\\source\\repos\\SaraHackathon\\SaraHackathon\\SaraHackathon.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\H104581\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\H104581\\source\\repos\\SaraHackathon\\SaraHackathon\\SaraHackathon\\SaraHackathon.csproj": {
+                "projectPath": "C:\\Users\\H104581\\source\\repos\\SaraHackathon\\SaraHackathon\\SaraHackathon\\SaraHackathon.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "(, )"
+            },
+            "Microsoft.Bot.Builder.Testing": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\H104581\\source\\repos\\SaraHackathon\\SaraHackathon\\SaraHackathon\\SaraHackathon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\H104581\\source\\repos\\SaraHackathon\\SaraHackathon\\SaraHackathon\\SaraHackathon.csproj",
+        "projectName": "SaraHackathon",
+        "projectPath": "C:\\Users\\H104581\\source\\repos\\SaraHackathon\\SaraHackathon\\SaraHackathon\\SaraHackathon.csproj",
+        "packagesPath": "C:\\Users\\H104581\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\H104581\\source\\repos\\SaraHackathon\\SaraHackathon\\SaraHackathon\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\H104581\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Bot.Builder.AI.Luis": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            },
+            "Microsoft.Bot.Builder.Dialogs": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            },
+            "Microsoft.Bot.Builder.Integration.AspNet.Core": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Recognizers.Text.DataTypes.TimexExpression": {
+              "target": "Package",
+              "version": "[1.1.5, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.6.10, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
